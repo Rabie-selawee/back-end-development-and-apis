@@ -14,7 +14,7 @@
     "package-lock.json": true,
     "package.json": true,
     "README.md": true,
-    "build-a-timestamp-microservice": true,
+    "build-a-timestamp-microservice": false,
     "build-a-web-server": true,
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
@@ -28,7 +28,7 @@
     "build-a-weather-service-api": true,
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
-    "build-a-chat-app": false,
+    "build-a-chat-app": true,
     "build-jwt-protected-routes": true
   },
   "chat.disableAIFeatures": true,
